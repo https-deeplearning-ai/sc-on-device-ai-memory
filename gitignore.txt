@@ -1,0 +1,15 @@
+.venv/
+.env
+__pycache__/
+edge-data*/
+*.pt
+*.log
+cert/
+.DS_Store
+
+# Working notes and unit-specific access details: this repo ships with a
+# course, so the internal history and the demo unit's own addresses stay on
+# the machine. docs/ is the public counterpart.
+CLAUDE.md
+REMOTE-ACCESS.md
+hardware/SPEC.md
